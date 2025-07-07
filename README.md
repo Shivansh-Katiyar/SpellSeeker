@@ -46,17 +46,17 @@ It’s lightweight yet modular—ideal for learning and expansion.
 ---
 
 ## 📁 Project Structure  
-SPELLSEEKER/
-│
-├── game_sc.cpp                # Game source code
-├── README.md               # Project documentation
-├── Very Easy.csv           # Level 1 word database
-├── Easy.csv                # Level 2 word database
-├── Medium.csv              # Level 3 word database
-├── Hard.csv                # Level 4 word database
-├── Very Hard.csv           # Level 5 word database
-├── Survival_Database.csv   # Random words for Survival mode
-
+<pre>SPELLSEEKER/                                                      <br>
+│                                                                 <br>
+├── game_sc.cpp                # Game source code                 <br>
+├── README.md               # Project documentation               <br>
+├── Very Easy.csv           # Level 1 word database               <br>
+├── Easy.csv                # Level 2 word database               <br>
+├── Medium.csv              # Level 3 word database               <br>
+├── Hard.csv                # Level 4 word database               <br>
+├── Very Hard.csv           # Level 5 word database               <br>
+├── Survival_Database.csv   # Random words for Survival mode      <br>
+</pre>
 
 ---
 
